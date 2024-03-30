@@ -1,0 +1,12 @@
+../PeripheralDrivers/Src/oled.c:19:6:OLED_WR_Byte	4
+../PeripheralDrivers/Src/oled.c:7:6:OLED_Refresh_Gram	3
+../PeripheralDrivers/Src/oled.c:36:6:OLED_Display_On	1
+../PeripheralDrivers/Src/oled.c:43:6:OLED_Display_Off	1
+../PeripheralDrivers/Src/oled.c:50:6:OLED_Clear	3
+../PeripheralDrivers/Src/oled.c:59:6:OLED_DrawPoint	4
+../PeripheralDrivers/Src/oled.c:70:6:OLED_Fill	3
+../PeripheralDrivers/Src/oled.c:80:6:OLED_ShowChar	5
+../PeripheralDrivers/Src/oled.c:109:10:oled_pow	2
+../PeripheralDrivers/Src/oled.c:121:6:OLED_ShowNumber	6
+../PeripheralDrivers/Src/oled.c:140:6:OLED_ShowString	4
+../PeripheralDrivers/Src/oled.c:193:6:OLED_Init	1
