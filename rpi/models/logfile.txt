@@ -1,0 +1,10 @@
+2024-03-21 17:13:23,383 :: INFO :: Connected to STM32
+2024-03-21 17:13:23,386 :: INFO :: Connected to STM32
+2024-03-21 17:30:12,740 :: INFO :: Connected to STM32
+2024-03-21 17:30:12,745 :: INFO :: Connected to STM32
+2024-03-21 17:32:14,966 :: INFO :: Connected to STM32
+2024-03-21 17:32:14,969 :: INFO :: Connected to STM32
+2024-03-21 17:32:57,684 :: INFO :: Connected to STM32
+2024-03-21 17:32:57,687 :: INFO :: Connected to STM32
+2024-03-21 17:57:32,332 :: INFO :: Connected to STM32
+2024-03-21 17:57:32,337 :: INFO :: Connected to STM32
