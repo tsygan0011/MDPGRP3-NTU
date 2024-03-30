@@ -1,0 +1,4 @@
+2024-03-20 15:34:16,286 :: INFO :: Bluetooth connection started
+2024-03-20 15:34:16,315 :: INFO :: Awaiting Bluetooth connection on RFCOMM CHANNEL 2
+2024-03-20 15:34:57,322 :: DEBUG :: Disconnecting Bluetooth link
+2024-03-20 15:34:57,323 :: ERROR :: Failed to disconnect Bluetooth link: 'NoneType' object has no attribute 'shutdown'
